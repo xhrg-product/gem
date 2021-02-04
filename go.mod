@@ -1,4 +1,4 @@
-module gem
+module github.com/xhrg-product/gem
 
 go 1.15
 
